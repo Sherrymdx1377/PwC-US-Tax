@@ -1,2 +1,7 @@
 # PwC-US-Tax
-I practiced using book-to-tax differences and built my skills understanding financial accounts in a real-world context.
+
+* Completed a job simulation focused on preparing a client tax return for PwC's
+   Tax team
+ * Calculated book-to-tax differences (BTDs) and taxable income
+ * Wrote a summary of findings for the client
+    
